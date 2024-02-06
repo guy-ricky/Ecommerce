@@ -31,10 +31,10 @@ const products = [
 
 const addresses = ['1 MUI Drive', 'Reactville', 'Anytown', '99999', 'USA'];
 const payments = [
-  { name: 'Card type', detail: 'Visa' },
-  { name: 'Card holder', detail: 'Mr John Smith' },
-  { name: 'Card number', detail: 'xxxx-xxxx-xxxx-1234' },
-  { name: 'Expiry date', detail: '04/2024' },
+  { name: 'Mode', detail: 'MPESA' },
+  { name: 'Paybill', detail: '0100010331948' },
+  { name: 'Phone Number', detail: '0745932555' },
+
 ];
 
 const Review = () => {
